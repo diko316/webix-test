@@ -3,6 +3,7 @@
 
 var webix = require("webix-npm");
 
+require("webix-npm/skins/compact.css");
 
 console.log("webix! ", webix);
 
