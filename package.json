@@ -41,6 +41,6 @@
     "webpack-hot-middleware": "^2.18.0"
   },
   "dependencies": {
-    "webix-npm": "git://github.com/diko316/webix.git"
+    "webix-npm": "4.3.0"
   }
 }
